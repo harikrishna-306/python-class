@@ -1,4 +1,4 @@
-#how create tuple
-t1=(10,20,30):
-    print=(type(t1))
-    print(t1)
+t1 = (50,60,70,10)    #how to read tuple 
+for value in t1:
+    print(value)
+
